@@ -1,5 +1,5 @@
 # SYR-NEXORA-v2- 
-requaired packeges : 
+required packeges : 
   colorama
   threading
   os
